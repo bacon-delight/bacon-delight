@@ -6,6 +6,7 @@
 
 - 📚 I'm currently learning WebGL and Data Science (Weird, ikr?)
 - 🎯 2021 Goals - Refine WebGL integrations into Vue/Nuxt, Complete 66DaysOfData Challenge and work on simulations
+- 🔭 I'm searching for partners for freelance projects
 - 🎹 I play a piano!
 
 #### Connect
@@ -14,6 +15,7 @@
 <a href="https://twitter.com/bacon_delight"><img align="left" src="https://img.shields.io/badge/Twitter-1c1c1c?&logo=Twitter" /></a>
 <a href="https://www.instagram.com/bacon_delight/"><img align="left" src="https://img.shields.io/badge/Instagram-1c1c1c?&logo=Instagram" /></a>
 <a href="mailto:dipanjan131@gmail.com"><img align="left" src="https://img.shields.io/badge/Email-1c1c1c?&logo=Gmail" /></a>
+<a href="https://calendly.com/bacon_delight/15min"><img align="left" src="https://img.shields.io/badge/Schedule a Meeting-1c1c1c?&logo=Google Calendar" /></a>
 
 <br/>
 
