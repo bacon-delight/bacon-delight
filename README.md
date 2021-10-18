@@ -94,4 +94,4 @@
 
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bacon-delight&count_private=true&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bacon-delight&count_private=true&show_icons=true&theme=gotham)
