@@ -32,7 +32,7 @@
   <img align="left" src="https://img.shields.io/badge/Solidity-1c1c1c?&logo=Solidity" />
 </p>
   
-<br/>
+<br/><br/>
 
 <h4>UI Libraries & Frameworks</h4>
 <p>
@@ -46,7 +46,7 @@
   <img align="left" src="https://img.shields.io/badge/Capacitor-1c1c1c?&logo=Capacitor" />
 </p>
   
-<br/>
+<br/><br/>
 
 <h4>Server Side Libraries & Frameworks</h4>
 <p>
@@ -59,7 +59,7 @@
   <img align="left" src="https://img.shields.io/badge/Apollo-1c1c1c?&logo=Apollo GraphQL" />
 </p>
 
-<br/>
+<br/><br/>
 
 <h4>Data Science Libraries & Frameworks</h4>
 <p>
@@ -68,7 +68,7 @@
   <img align="left" src="https://img.shields.io/badge/PyTorch-1c1c1c?&logo=PyTorch" />
 </p>
 
-<br/>
+<br/><br/>
 
 <h4>Payment Integrations</h4>
 <p>
