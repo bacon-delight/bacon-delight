@@ -19,17 +19,24 @@
 
 <br/><br/>
 
-<h2>What I work with</h2>
+---
+
+### What I work with
 
 <p>These are some of the languages, tools and frameworks that I use on a regular basis.</p>
 
 <h4>Languages</h4>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacon-delight&theme=github_dark&layout=compact&hide=jupyter%20notebook,matlab" />
+</p>
 <p>
   <img align="left" src="https://img.shields.io/badge/JavaScript-1c1c1c?&logo=JavaScript" />
   <img align="left" src="https://img.shields.io/badge/Python-1c1c1c?&logo=Python" />
   <img align="left" src="https://img.shields.io/badge/WebGL-1c1c1c?&logo=WebGL" />
   <img align="left" src="https://img.shields.io/badge/Lua-1c1c1c?&logo=Lua" />
   <img align="left" src="https://img.shields.io/badge/Solidity-1c1c1c?&logo=Solidity" />
+  <img align="left" src="https://img.shields.io/badge/Octave-1c1c1c?&logo=Octave" />
+  <img align="left" src="https://img.shields.io/badge/PHP-1c1c1c?&logo=PHP" />
 </p>
   
 <br/><br/>
@@ -64,7 +71,7 @@
 <h4>Data Science Libraries & Frameworks</h4>
 <p>
   <img align="left" src="https://img.shields.io/badge/Tableau-1c1c1c?&logo=Tableau" />
-  <img align="left" src="https://img.shields.io/badge/TensorFlowJS-1c1c1c?&logo=TensorFlow" />
+  <img align="left" src="https://img.shields.io/badge/TensorFlow-1c1c1c?&logo=TensorFlow" />
   <img align="left" src="https://img.shields.io/badge/PyTorch-1c1c1c?&logo=PyTorch" />
 </p>
 
@@ -79,6 +86,12 @@
 
 <br/><br/>
 
-## Articles & Notes
+---
+
+### Articles & Notes
 - [JavaScript Refresher](https://bacon-notes.notion.site/JavaScript-Refresher-0c57452cc613429098170bbc97c4c000)
 - [Vue API Integration](https://bacon-notes.notion.site/Vue-API-Integration-b9eeb9b801fd4766919735940293e16b)
+
+<br/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bacon-delight&count_private=true&show_icons=true&theme=github_dark)
