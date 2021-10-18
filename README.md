@@ -11,11 +11,11 @@
 
 #### Connect with me
 
-<a href="https://www.linkedin.com/in/dipanjan131/"><img align="left" src="https://img.shields.io/badge/LinkedIn-1c1c1c?&logo=LinkedIn" /></a>
-<a href="https://twitter.com/bacon_delight"><img align="left" src="https://img.shields.io/badge/Twitter-1c1c1c?&logo=Twitter" /></a>
-<a href="https://www.instagram.com/bacon_delight/"><img align="left" src="https://img.shields.io/badge/Instagram-1c1c1c?&logo=Instagram" /></a>
-<a href="mailto:dipanjan131@gmail.com"><img align="left" src="https://img.shields.io/badge/Email-1c1c1c?&logo=Gmail" /></a>
-<a href="https://calendly.com/bacon_delight/15min"><img align="left" src="https://img.shields.io/badge/Schedule a Meeting-1c1c1c?&logo=Google Calendar" /></a>
+<a href="https://www.linkedin.com/in/dipanjan131/"><img align="left" src="https://img.shields.io/badge/LinkedIn-1c1c1c?&style=for-the-badge&logo=LinkedIn" /></a>
+<a href="https://twitter.com/bacon_delight"><img align="left" src="https://img.shields.io/badge/Twitter-1c1c1c?&style=for-the-badge&logo=Twitter" /></a>
+<a href="https://www.instagram.com/bacon_delight/"><img align="left" src="https://img.shields.io/badge/Instagram-1c1c1c?&style=for-the-badge&logo=Instagram" /></a>
+<a href="mailto:dipanjan131@gmail.com"><img align="left" src="https://img.shields.io/badge/Email-1c1c1c?&style=for-the-badge&logo=Gmail" /></a>
+<a href="https://calendly.com/bacon_delight/15min"><img align="left" src="https://img.shields.io/badge/Schedule a Meeting-1c1c1c?&style=for-the-badge&logo=Google Calendar" /></a>
 
 <br/><br/>
 
@@ -30,58 +30,58 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacon-delight&theme=github_dark&layout=compact&hide=jupyter%20notebook,matlab" />
 </p>
 <p>
-  <img align="left" src="https://img.shields.io/badge/JavaScript-1c1c1c?&logo=JavaScript" />
-  <img align="left" src="https://img.shields.io/badge/Python-1c1c1c?&logo=Python" />
-  <img align="left" src="https://img.shields.io/badge/WebGL-1c1c1c?&logo=WebGL" />
-  <img align="left" src="https://img.shields.io/badge/Lua-1c1c1c?&logo=Lua" />
-  <img align="left" src="https://img.shields.io/badge/Solidity-1c1c1c?&logo=Solidity" />
-  <img align="left" src="https://img.shields.io/badge/Octave-1c1c1c?&logo=Octave" />
-  <img align="left" src="https://img.shields.io/badge/PHP-1c1c1c?&logo=PHP" />
+  <img align="left" src="https://img.shields.io/badge/JavaScript-1c1c1c?&style=flat-square&logo=JavaScript" />
+  <img align="left" src="https://img.shields.io/badge/Python-1c1c1c?&style=flat-square&logo=Python" />
+  <img align="left" src="https://img.shields.io/badge/WebGL-1c1c1c?&style=flat-square&logo=WebGL" />
+  <img align="left" src="https://img.shields.io/badge/Lua-1c1c1c?&style=flat-square&logo=Lua" />
+  <img align="left" src="https://img.shields.io/badge/Solidity-1c1c1c?&style=flat-square&logo=Solidity" />
+  <img align="left" src="https://img.shields.io/badge/Octave-1c1c1c?&style=flat-square&logo=Octave" />
+  <img align="left" src="https://img.shields.io/badge/PHP-1c1c1c?&style=flat-square&logo=PHP" />
 </p>
   
 <br/><br/>
 
 <h4>UI Libraries & Frameworks</h4>
 <p>
-  <img align="left" src="https://img.shields.io/badge/Vue-1c1c1c?&logo=Vue.js" />
-  <img align="left" src="https://img.shields.io/badge/Svelte-1c1c1c?&logo=Svelte" />
-  <img align="left" src="https://img.shields.io/badge/Angular-1c1c1c?&logo=Angular" />
-  <img align="left" src="https://img.shields.io/badge/ThreeJS-1c1c1c?&logo=Three.js" />
-  <img align="left" src="https://img.shields.io/badge/GreenSock-1c1c1c?&logo=GreenSock" />
-  <img align="left" src="https://img.shields.io/badge/TensorFlowJS-1c1c1c?&logo=TensorFlow" />
-  <img align="left" src="https://img.shields.io/badge/Electron-1c1c1c?&logo=Electron" />
-  <img align="left" src="https://img.shields.io/badge/Capacitor-1c1c1c?&logo=Capacitor" />
+  <img align="left" src="https://img.shields.io/badge/Vue-1c1c1c?&style=flat-square&logo=Vue.js" />
+  <img align="left" src="https://img.shields.io/badge/Svelte-1c1c1c?&style=flat-square&logo=Svelte" />
+  <img align="left" src="https://img.shields.io/badge/Angular-1c1c1c?&style=flat-square&logo=Angular" />
+  <img align="left" src="https://img.shields.io/badge/ThreeJS-1c1c1c?&style=flat-square&logo=Three.js" />
+  <img align="left" src="https://img.shields.io/badge/GreenSock-1c1c1c?&style=flat-square&logo=GreenSock" />
+  <img align="left" src="https://img.shields.io/badge/TensorFlowJS-1c1c1c?&style=flat-square&logo=TensorFlow" />
+  <img align="left" src="https://img.shields.io/badge/Electron-1c1c1c?&style=flat-square&logo=Electron" />
+  <img align="left" src="https://img.shields.io/badge/Capacitor-1c1c1c?&style=flat-square&logo=Capacitor" />
 </p>
   
 <br/><br/>
 
 <h4>Server Side Libraries & Frameworks</h4>
 <p>
-  <img align="left" src="https://img.shields.io/badge/Flask-1c1c1c?&logo=Flask" />
-  <img align="left" src="https://img.shields.io/badge/Django-1c1c1c?&logo=Django" />
-  <img align="left" src="https://img.shields.io/badge/Express-1c1c1c?&logo=Express" />
-  <img align="left" src="https://img.shields.io/badge/GraphQL-1c1c1c?&logo=GraphQL" />
-  <img align="left" src="https://img.shields.io/badge/Firebase-1c1c1c?&logo=Firebase" />
-  <img align="left" src="https://img.shields.io/badge/Supabase-1c1c1c?&logo=Supabase" />
-  <img align="left" src="https://img.shields.io/badge/Apollo-1c1c1c?&logo=Apollo GraphQL" />
+  <img align="left" src="https://img.shields.io/badge/Flask-1c1c1c?&style=flat-square&logo=Flask" />
+  <img align="left" src="https://img.shields.io/badge/Django-1c1c1c?&style=flat-square&logo=Django" />
+  <img align="left" src="https://img.shields.io/badge/Express-1c1c1c?&style=flat-square&logo=Express" />
+  <img align="left" src="https://img.shields.io/badge/GraphQL-1c1c1c?&style=flat-square&logo=GraphQL" />
+  <img align="left" src="https://img.shields.io/badge/Firebase-1c1c1c?&style=flat-square&logo=Firebase" />
+  <img align="left" src="https://img.shields.io/badge/Supabase-1c1c1c?&style=flat-square&logo=Supabase" />
+  <img align="left" src="https://img.shields.io/badge/Apollo-1c1c1c?&style=flat-square&logo=Apollo GraphQL" />
 </p>
 
 <br/><br/>
 
 <h4>Data Science Libraries & Frameworks</h4>
 <p>
-  <img align="left" src="https://img.shields.io/badge/Tableau-1c1c1c?&logo=Tableau" />
-  <img align="left" src="https://img.shields.io/badge/TensorFlow-1c1c1c?&logo=TensorFlow" />
-  <img align="left" src="https://img.shields.io/badge/PyTorch-1c1c1c?&logo=PyTorch" />
+  <img align="left" src="https://img.shields.io/badge/Tableau-1c1c1c?&style=flat-square&logo=Tableau" />
+  <img align="left" src="https://img.shields.io/badge/TensorFlow-1c1c1c?&style=flat-square&logo=TensorFlow" />
+  <img align="left" src="https://img.shields.io/badge/PyTorch-1c1c1c?&style=flat-square&logo=PyTorch" />
 </p>
 
 <br/><br/>
 
 <h4>Payment Integrations</h4>
 <p>
-  <img align="left" src="https://img.shields.io/badge/Stripe-1c1c1c?&logo=Stripe" />
-  <img align="left" src="https://img.shields.io/badge/PayPal-1c1c1c?&logo=PayPal" />
-  <img align="left" src="https://img.shields.io/badge/Razorpay-1c1c1c?&logo=Razorpay" />
+  <img align="left" src="https://img.shields.io/badge/Stripe-1c1c1c?&style=flat-square&logo=Stripe" />
+  <img align="left" src="https://img.shields.io/badge/PayPal-1c1c1c?&style=flat-square&logo=PayPal" />
+  <img align="left" src="https://img.shields.io/badge/Razorpay-1c1c1c?&style=flat-square&logo=Razorpay" />
 </p>
 
 <br/><br/>
