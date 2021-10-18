@@ -19,51 +19,60 @@
 
 <br/><br/>
 
-## What I work with
+<h2>What I work with</h2>
 
-These are some of the languages, tools and frameworks that I use on a regular basis. 
+<p>These are some of the languages, tools and frameworks that I use on a regular basis.</p>
 
-#### Languages
-<img align="left" src="https://img.shields.io/badge/JavaScript-1c1c1c?&logo=JavaScript" />
-<img align="left" src="https://img.shields.io/badge/Python-1c1c1c?&logo=Python" />
-<img align="left" src="https://img.shields.io/badge/WebGL-1c1c1c?&logo=WebGL" />
-<img align="left" src="https://img.shields.io/badge/Lua-1c1c1c?&logo=Lua" />
-<img align="left" src="https://img.shields.io/badge/Solidity-1c1c1c?&logo=Solidity" />
+<h4>Languages</h4>
+<p>
+  <img align="left" src="https://img.shields.io/badge/JavaScript-1c1c1c?&logo=JavaScript" />
+  <img align="left" src="https://img.shields.io/badge/Python-1c1c1c?&logo=Python" />
+  <img align="left" src="https://img.shields.io/badge/WebGL-1c1c1c?&logo=WebGL" />
+  <img align="left" src="https://img.shields.io/badge/Lua-1c1c1c?&logo=Lua" />
+  <img align="left" src="https://img.shields.io/badge/Solidity-1c1c1c?&logo=Solidity" />
+</p>
+  
+<br/>
 
-<br/><br/>
+<h4>UI Libraries & Frameworks</h4>
+<p>
+  <img align="left" src="https://img.shields.io/badge/Vue-1c1c1c?&logo=Vue.js" />
+  <img align="left" src="https://img.shields.io/badge/Svelte-1c1c1c?&logo=Svelte" />
+  <img align="left" src="https://img.shields.io/badge/Angular-1c1c1c?&logo=Angular" />
+  <img align="left" src="https://img.shields.io/badge/ThreeJS-1c1c1c?&logo=Three.js" />
+  <img align="left" src="https://img.shields.io/badge/GreenSock-1c1c1c?&logo=GreenSock" />
+  <img align="left" src="https://img.shields.io/badge/TensorFlowJS-1c1c1c?&logo=TensorFlow" />
+  <img align="left" src="https://img.shields.io/badge/Electron-1c1c1c?&logo=Electron" />
+  <img align="left" src="https://img.shields.io/badge/Capacitor-1c1c1c?&logo=Capacitor" />
+</p>
+  
+<br/>
 
-#### UI Libraries & Frameworks
-<img align="left" src="https://img.shields.io/badge/Vue-1c1c1c?&logo=Vue.js" />
-<img align="left" src="https://img.shields.io/badge/Svelte-1c1c1c?&logo=Svelte" />
-<img align="left" src="https://img.shields.io/badge/Angular-1c1c1c?&logo=Angular" />
-<img align="left" src="https://img.shields.io/badge/ThreeJS-1c1c1c?&logo=Three.js" />
-<img align="left" src="https://img.shields.io/badge/GreenSock-1c1c1c?&logo=GreenSock" />
-<img align="left" src="https://img.shields.io/badge/TensorFlowJS-1c1c1c?&logo=TensorFlow" />
-<img align="left" src="https://img.shields.io/badge/Electron-1c1c1c?&logo=Electron" />
-<img align="left" src="https://img.shields.io/badge/Capacitor-1c1c1c?&logo=Capacitor" />
+<h4>Server Side Libraries & Frameworks</h4>
+<p>
+  <img align="left" src="https://img.shields.io/badge/Flask-1c1c1c?&logo=Flask" />
+  <img align="left" src="https://img.shields.io/badge/Django-1c1c1c?&logo=Django" />
+  <img align="left" src="https://img.shields.io/badge/Express-1c1c1c?&logo=Express" />
+  <img align="left" src="https://img.shields.io/badge/GraphQL-1c1c1c?&logo=GraphQL" />
+  <img align="left" src="https://img.shields.io/badge/Firebase-1c1c1c?&logo=Firebase" />
+  <img align="left" src="https://img.shields.io/badge/Supabase-1c1c1c?&logo=Supabase" />
+  <img align="left" src="https://img.shields.io/badge/Apollo-1c1c1c?&logo=Apollo GraphQL" />
+</p>
 
-<br/><br/>
+<br/>
 
-#### Server Side Libraries & Frameworks
-<img align="left" src="https://img.shields.io/badge/Flask-1c1c1c?&logo=Flask" />
-<img align="left" src="https://img.shields.io/badge/Django-1c1c1c?&logo=Django" />
-<img align="left" src="https://img.shields.io/badge/Express-1c1c1c?&logo=Express" />
-<img align="left" src="https://img.shields.io/badge/GraphQL-1c1c1c?&logo=GraphQL" />
-<img align="left" src="https://img.shields.io/badge/Firebase-1c1c1c?&logo=Firebase" />
-<img align="left" src="https://img.shields.io/badge/Supabase-1c1c1c?&logo=Supabase" />
-<img align="left" src="https://img.shields.io/badge/Apollo-1c1c1c?&logo=Apollo GraphQL" />
+<h4>Data Science Libraries & Frameworks</h4>
+<p>
+  <img align="left" src="https://img.shields.io/badge/Tableau-1c1c1c?&logo=Tableau" />
+  <img align="left" src="https://img.shields.io/badge/TensorFlowJS-1c1c1c?&logo=TensorFlow" />
+  <img align="left" src="https://img.shields.io/badge/PyTorch-1c1c1c?&logo=PyTorch" />
+</p>
 
-<br/><br/>
+<br/>
 
-#### Data Science Libraries & Frameworks
-<img align="left" src="https://img.shields.io/badge/Tableau-1c1c1c?&logo=Tableau" />
-<img align="left" src="https://img.shields.io/badge/TensorFlowJS-1c1c1c?&logo=TensorFlow" />
-<img align="left" src="https://img.shields.io/badge/PyTorch-1c1c1c?&logo=PyTorch" />
-
-<br/><br/>
-
-#### Payment Integrations
-<img align="left" src="https://img.shields.io/badge/Stripe-1c1c1c?&logo=Stripe" />
-<img align="left" src="https://img.shields.io/badge/PayPal-1c1c1c?&logo=PayPal" />
-<img align="left" src="https://img.shields.io/badge/Razorpay-1c1c1c?&logo=Razorpay" />
-
+<h4>Payment Integrations</h4>
+<p>
+  <img align="left" src="https://img.shields.io/badge/Stripe-1c1c1c?&logo=Stripe" />
+  <img align="left" src="https://img.shields.io/badge/PayPal-1c1c1c?&logo=PayPal" />
+  <img align="left" src="https://img.shields.io/badge/Razorpay-1c1c1c?&logo=Razorpay" />
+</p>
