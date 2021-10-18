@@ -1,6 +1,6 @@
 ### Hi, I'm Dipanjan! 👋
 
-[![Website](https://img.shields.io/website?down_message=%E2%96%BC&label=Portfolio&style=for-the-badge&up_message=%E2%96%B2&url=http%3A%2F%2Fdipanjande.com%2F)](https://dipanjande.com)
+[![Portfolio](https://img.shields.io/website?down_message=%E2%96%BC&label=Portfolio&style=for-the-badge&up_message=%E2%96%B2&url=http%3A%2F%2Fdipanjande.com%2F)](https://dipanjande.com)
 
 <h3>I'm a Creative Developer and a <span>Data Scientist</span></h3>
 
@@ -76,3 +76,9 @@
   <img align="left" src="https://img.shields.io/badge/PayPal-1c1c1c?&logo=PayPal" />
   <img align="left" src="https://img.shields.io/badge/Razorpay-1c1c1c?&logo=Razorpay" />
 </p>
+
+<br/><br/>
+
+## Articles & Notes
+- [JavaScript Refresher](https://bacon-notes.notion.site/JavaScript-Refresher-0c57452cc613429098170bbc97c4c000)
+- [Vue API Integration](https://bacon-notes.notion.site/Vue-API-Integration-b9eeb9b801fd4766919735940293e16b)
