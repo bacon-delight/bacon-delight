@@ -1,6 +1,6 @@
 ### Hi, I'm Dipanjan! 👋
 
-![Portfolio](https://img.shields.io/website?down_message=%E2%96%BC&label=Portfolio&style=for-the-badge&up_message=%E2%96%B2&url=http%3A%2F%2Fdipanjande.com%2F)
+[![Website](https://img.shields.io/website?down_message=%E2%96%BC&label=Portfolio&style=for-the-badge&up_message=%E2%96%B2&url=http%3A%2F%2Fdipanjande.com%2F)](https://dipanjande.com)
 
 <h3>I'm a Creative Developer and a <span>Data Scientist</span></h3>
 
@@ -9,7 +9,7 @@
 - 🔭 I'm searching for partners for freelance projects
 - 🎹 I play a piano!
 
-#### Connect
+#### Connect with me
 
 <a href="https://www.linkedin.com/in/dipanjan131/"><img align="left" src="https://img.shields.io/badge/LinkedIn-1c1c1c?&logo=LinkedIn" /></a>
 <a href="https://twitter.com/bacon_delight"><img align="left" src="https://img.shields.io/badge/Twitter-1c1c1c?&logo=Twitter" /></a>
@@ -17,7 +17,7 @@
 <a href="mailto:dipanjan131@gmail.com"><img align="left" src="https://img.shields.io/badge/Email-1c1c1c?&logo=Gmail" /></a>
 <a href="https://calendly.com/bacon_delight/15min"><img align="left" src="https://img.shields.io/badge/Schedule a Meeting-1c1c1c?&logo=Google Calendar" /></a>
 
-<br/>
+<br/><br/>
 
 ## What I work with
 
@@ -30,7 +30,7 @@ These are some of the languages, tools and frameworks that I use on a regular ba
 <img align="left" src="https://img.shields.io/badge/Lua-1c1c1c?&logo=Lua" />
 <img align="left" src="https://img.shields.io/badge/Solidity-1c1c1c?&logo=Solidity" />
 
-<br/>
+<br/><br/>
 
 #### UI Libraries & Frameworks
 <img align="left" src="https://img.shields.io/badge/Vue-1c1c1c?&logo=Vue.js" />
@@ -42,7 +42,7 @@ These are some of the languages, tools and frameworks that I use on a regular ba
 <img align="left" src="https://img.shields.io/badge/Electron-1c1c1c?&logo=Electron" />
 <img align="left" src="https://img.shields.io/badge/Capacitor-1c1c1c?&logo=Capacitor" />
 
-<br/>
+<br/><br/>
 
 #### Server Side Libraries & Frameworks
 <img align="left" src="https://img.shields.io/badge/Flask-1c1c1c?&logo=Flask" />
@@ -53,14 +53,14 @@ These are some of the languages, tools and frameworks that I use on a regular ba
 <img align="left" src="https://img.shields.io/badge/Supabase-1c1c1c?&logo=Supabase" />
 <img align="left" src="https://img.shields.io/badge/Apollo-1c1c1c?&logo=Apollo GraphQL" />
 
-<br/>
+<br/><br/>
 
 #### Data Science Libraries & Frameworks
 <img align="left" src="https://img.shields.io/badge/Tableau-1c1c1c?&logo=Tableau" />
 <img align="left" src="https://img.shields.io/badge/TensorFlowJS-1c1c1c?&logo=TensorFlow" />
 <img align="left" src="https://img.shields.io/badge/PyTorch-1c1c1c?&logo=PyTorch" />
 
-<br/>
+<br/><br/>
 
 #### Payment Integrations
 <img align="left" src="https://img.shields.io/badge/Stripe-1c1c1c?&logo=Stripe" />
