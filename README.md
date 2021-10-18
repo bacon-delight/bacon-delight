@@ -11,6 +11,9 @@
 #### Connect
 
 <a href="https://www.linkedin.com/in/dipanjan131/"><img align="left" src="https://img.shields.io/badge/LinkedIn-1c1c1c?&logo=LinkedIn" /></a>
+<a href="https://twitter.com/bacon_delight"><img align="left" src="https://img.shields.io/badge/Twitter-1c1c1c?&logo=Twitter" /></a>
+<a href="https://www.instagram.com/bacon_delight/"><img align="left" src="https://img.shields.io/badge/Instagram-1c1c1c?&logo=Instagram" /></a>
+<a href="mailto:dipanjan131@gmail.com"><img align="left" src="https://img.shields.io/badge/Email-1c1c1c?&logo=Gmail" /></a>
 
 <br/>
 
