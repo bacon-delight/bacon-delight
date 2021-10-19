@@ -98,4 +98,12 @@ If you like what I do, maybe consider buying me a coffee?
 
 <a href="https://www.buymeacoffee.com/bacondelight" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee?" width="150" ></a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bacon-delight&count_private=true&show_icons=true&theme=gotham)
+---
+
+### Statistics
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bacon-delight&theme=holi-theme)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bacon-delight&count_private=true&show_icons=true&theme=github_dark)
+
+![Github Activity](https://activity-graph.herokuapp.com/graph?username=bacon-delight&theme=github&custom_title=Activity)
