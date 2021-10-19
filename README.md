@@ -44,11 +44,11 @@
 <h4>UI Libraries & Frameworks</h4>
 <p>
   <img align="left" src="https://img.shields.io/badge/Vue-1c1c1c?&style=flat-square&logo=Vue.js" />
+    <img align="left" src="https://img.shields.io/badge/Nuxt-1c1c1c?&style=flat-square&logo=Nuxt.js" />
   <img align="left" src="https://img.shields.io/badge/Svelte-1c1c1c?&style=flat-square&logo=Svelte" />
   <img align="left" src="https://img.shields.io/badge/Angular-1c1c1c?&style=flat-square&logo=Angular" />
   <img align="left" src="https://img.shields.io/badge/ThreeJS-1c1c1c?&style=flat-square&logo=Three.js" />
   <img align="left" src="https://img.shields.io/badge/GreenSock-1c1c1c?&style=flat-square&logo=GreenSock" />
-  <img align="left" src="https://img.shields.io/badge/TensorFlowJS-1c1c1c?&style=flat-square&logo=TensorFlow" />
   <img align="left" src="https://img.shields.io/badge/Electron-1c1c1c?&style=flat-square&logo=Electron" />
   <img align="left" src="https://img.shields.io/badge/Capacitor-1c1c1c?&style=flat-square&logo=Capacitor" />
 </p>
