@@ -25,15 +25,6 @@
 
 <p>These are some of the languages, tools and frameworks that I use on a regular basis.</p>
 
-<h4>Devices</h4>
-<p>
-  <img align="left" src="https://img.shields.io/badge/MacBook Air M1-000000?&style=for-the-badge&logo=Apple&logoColor=white" />
-  <img align="left" src="https://img.shields.io/badge/Raspberry Pi-A22846?&style=for-the-badge&logo=Raspberry Pi&logoColor=white" />
-  <img align="left" src="https://img.shields.io/badge/Arduino-00979D?&style=for-the-badge&logo=Arduino&logoColor=white" />
-</p>
-
-<br/><br/>
-
 <h4>Languages</h4>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacon-delight&theme=github_dark&layout=compact&hide=jupyter%20notebook,matlab" />
@@ -91,6 +82,15 @@
   <img align="left" src="https://img.shields.io/badge/Stripe-1c1c1c?&style=flat-square&logo=Stripe" />
   <img align="left" src="https://img.shields.io/badge/PayPal-1c1c1c?&style=flat-square&logo=PayPal" />
   <img align="left" src="https://img.shields.io/badge/Razorpay-1c1c1c?&style=flat-square&logo=Razorpay" />
+</p>
+
+<br/><br/>
+
+<h4>Devices</h4>
+<p>
+  <img align="left" src="https://img.shields.io/badge/MacBook Air M1-000000?&style=for-the-badge&logo=Apple&logoColor=white" />
+  <img align="left" src="https://img.shields.io/badge/Raspberry Pi-A22846?&style=for-the-badge&logo=Raspberry Pi&logoColor=white" />
+  <img align="left" src="https://img.shields.io/badge/Arduino-00979D?&style=for-the-badge&logo=Arduino&logoColor=white" />
 </p>
 
 <br/><br/>
