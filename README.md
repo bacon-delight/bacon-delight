@@ -5,8 +5,14 @@
 <h3>I'm a Creative Developer and a <span>Data Scientist</span></h3>
 
 - 📚 I'm currently learning WebGL and Data Science (Weird, ikr?)
-- 🎯 2021 Goals - Refine WebGL integrations into Vue/Nuxt, Complete 66DaysOfData Challenge and work on simulations
-- 🔭 I'm searching for partners for freelance projects
+- 🎯 2022 Goals
+  - Double down on WebGL & refine integrations with Vue/Nuxt
+  - Try out some simulations using ThreeJS
+  - Try out Svelte/SvelteKit
+  - Start publishing Vue Plugins
+  - Release initial versions of [Ecosphere](https://ecosphere.dev)
+  - Complete #66DaysOfData Challenge
+  - Work on some Web3 Projects and learn Smart Contracts
 - 🎹 I play a piano!
 
 #### Connect with me
