@@ -4,7 +4,7 @@
 
 <h3>I'm a Creative Developer and a <span>Data Scientist</span></h3>
 
-- 📚 I'm currently learning WebGL and Data Science (Weird, ikr?)
+- 📚 I'm currently learning WebGL, Data Science and Blockchain (Weird, ikr?)
 - 🎯 2022 Goals
   - Double down on WebGL & refine integrations with Vue/Nuxt
   - Try out some simulations using ThreeJS
@@ -12,7 +12,8 @@
   - Start publishing Vue Plugins
   - Release initial versions of [Ecosphere](https://ecosphere.dev)
   - Complete #66DaysOfData Challenge
-  - Work on some Web3 Projects and learn Smart Contracts
+  - Work on some Web3 Projects and learn more about Smart Contracts
+  - 学习中文
 - 🎹 I play a piano!
 
 #### Connect with me
